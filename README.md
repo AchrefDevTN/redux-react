@@ -1,6 +1,6 @@
 # Redux React
 
-![Redux React](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*dm00QProOdGxcV9gv0RX_w.png)
+![Redux React](https://miro.medium.com/v2/resize:fit:720/format:webp/1*nFayYFlQtqGAGKW8_ZWDxQ.png)
 
 ## Overview
 
